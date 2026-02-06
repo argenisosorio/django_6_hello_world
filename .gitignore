@@ -1,0 +1,9 @@
+*.*.backup
+*.*~
+*.tar.gz
+*.pyc
+*.log
+*.swp
+*.sqlite3
+db.sqlite3
+django_6_hello_world/settings.py
