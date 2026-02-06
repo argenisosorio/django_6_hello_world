@@ -21,3 +21,7 @@ $ python manage.py runserver
 ## Test the project:
 
 Open your browser to http://127.0.0.1:8000 and you'll see the hello message.
+
+## Image
+
+![1.png](1.png "1.png")
